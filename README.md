@@ -1,2 +1,2 @@
 # SpringMVC
-using spring core, JSP, Tomcat 9, Servlet
+using spring wemvc, JSP, JSTL, Postgre SQL, Tomcat 9, Servlet
